@@ -25,4 +25,4 @@ iSO Emulator
 
 Windows Desktop
 
-![iOS](./docs/windows.png)
+![iOS](./docs/windows.PNG)
